@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-W8</Machine>
+    <WindowsUser>Lucas</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>AB7586F9D1C28DDF298CB171B4822739A192785F1DC906ED986ED7C3DB7570C9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5bd30b2f-0226-41de-9221-d95f99c6ea0e_1.0.0.0_neutral__84151w2xrwq0c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5bd30b2f-0226-41de-9221-d95f99c6ea0e_84151w2xrwq0c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5bd30b2f-0226-41de-9221-d95f99c6ea0e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=lucas.vidal</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-22T14:47:07.592</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Release\TechDrinkUpTwitterMetroClient.exe">
+      <PackagePath>TechDrinkUpTwitterMetroClient.exe</PackagePath>
+      <Modified>2012-09-22T15:05:22.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Release\TechDrinkUpTwitterMetroClient.pdb">
+      <PackagePath>TechDrinkUpTwitterMetroClient.pdb</PackagePath>
+      <Modified>2012-09-22T15:05:22.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2012-01-27T11:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2012-01-27T11:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2012-01-27T11:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-23T21:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Release\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2012-09-22T15:05:15.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-21T15:24:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-09-22T14:47:06.184</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
