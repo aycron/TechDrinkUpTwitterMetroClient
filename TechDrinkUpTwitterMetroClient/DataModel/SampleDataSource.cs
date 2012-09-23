@@ -75,6 +75,7 @@ namespace TechDrinkUpTwitterMetroClient.Data
                 if (this._image == null && this._imagePath != null)
                 {
                     this._image = new BitmapImage(new Uri(SampleDataCommon._baseUri, this._imagePath));
+                    //this._image = new BitmapImage(new Uri("https://www.google.com.ar/images/srpr/logo3w.png"));
                 }
                 return this._image;
             }
@@ -198,36 +199,36 @@ namespace TechDrinkUpTwitterMetroClient.Data
             var group1 = new SampleDataGroup("Items",
                     "Tweets with TechDrinkUp hashtag",
                     "Recent tweets",
-                    "Assets/DarkGray.png",
+                    "http://a0.twimg.com/profile_images/2565398414/IMG_0815.jpg",
                     "Recent tweets from users");
             group1.Items.Add(new SampleDataItem("12389741623598172",
                     "@techdrinkup",
                     "2190675848",
-                    "Assets/LightGray.png",
+                    "http://a0.twimg.com/sticky/default_profile_images/default_profile_0.png",
                     "#Test waschtrockner stiftung warentest http://t.co/b9GyagIs #shop #tests waschtrockner stiftung warentest kaufen",
                     group1));
             group1.Items.Add(new SampleDataItem("12389741623598173",
                     "@lucasvidalutn",
                     "208112063",
-                    "Assets/DarkGray.png",
+                    "https://twimg0-a.akamaihd.net/profile_images/1473386819/profile.jpg",
                     "RT @ShauniLatu: “@blasfloss: Time to #fail this #math #test...” You fail at life.",
                     group1));
             group1.Items.Add(new SampleDataItem("12389741623598174",
                     "@oso_arturo",
                     "467767993",
-                    "Assets/MediumGray.png",
+                    "http://a0.twimg.com/profile_images/2191494082/virtuellemiss.jpg",
                     "#2010 #maximebataille #test #coiffure #mode #model #mannequin  http://t.co/yiQEygfr",
                     group1));
             group1.Items.Add(new SampleDataItem("12389741623598175",
                     "@ggonzalez30",
                     "241319155",
-                    "Assets/DarkGray.png",
+                    "http://a0.twimg.com/profile_images/2639300174/19fcbfeb78327fc6329c9d877b5b69dc.jpeg",
                     "Time to #fail this #math #test...",
                     group1));
             group1.Items.Add(new SampleDataItem("123897416235981726",
                     "@juan_carlos_batman",
                     "824545292",
-                    "Assets/MediumGray.png",
+                    "https://twimg0-a.akamaihd.net/profile_images/2475729655/gjr49jeorqfcd6rm7djv.jpeg",
                     "Studying all this week better have been worth it for my test on monday #collegebound #test",
                     group1));
             this.AllGroups.Add(group1);
