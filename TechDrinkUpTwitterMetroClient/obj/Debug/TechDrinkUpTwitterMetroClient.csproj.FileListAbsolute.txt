@@ -25,30 +25,3 @@ c:\users\lucas.vidal\documents\visual studio 2012\Projects\TechDrinkUpTwitterMet
 c:\users\lucas.vidal\documents\visual studio 2012\Projects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\pri.resfiles
 c:\users\lucas.vidal\documents\visual studio 2012\Projects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\LanguageQualifiers.txt
 c:\users\lucas.vidal\documents\visual studio 2012\Projects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\ProjectArchitectures.txt
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Debug\TechDrinkUpTwitterMetroClient.exe
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Debug\TechDrinkUpTwitterMetroClient.pdb
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Debug\resources.pri
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Debug\AppxManifest.xml
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Debug\TechDrinkUpTwitterMetroClient.build.appxrecipe
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\App.g.i.cs
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\App.g.cs
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\Common\StandardStyles.g.i.cs
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\Common\StandardStyles.g.cs
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\GroupedItemsPage.g.i.cs
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\GroupedItemsPage.g.cs
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\XamlTypeInfo.g.cs
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\App.xaml
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\Common\StandardStyles.xaml
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\GroupedItemsPage.xaml
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\TechDrinkUpTwitterMetroClient.exe
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\TechDrinkUpTwitterMetroClient.pdb
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\priconfig.xml.intermediate
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\layout.resfiles.intermediate
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\resources.resfiles.intermediate
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\pri.resfiles.intermediate
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\priconfig.xml
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\layout.resfiles
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\resources.resfiles
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\pri.resfiles
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\LanguageQualifiers.txt
-C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\obj\Debug\ProjectArchitectures.txt

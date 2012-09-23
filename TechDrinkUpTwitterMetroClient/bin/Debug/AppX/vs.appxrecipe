@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-09-22T15:21:30.784</Modified>
+      <Modified>2012-09-22T21:39:12.800</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Debug\TechDrinkUpTwitterMetroClient.exe">
       <PackagePath>TechDrinkUpTwitterMetroClient.exe</PackagePath>
-      <Modified>2012-09-22T15:21:30.421</Modified>
+      <Modified>2012-09-22T21:40:59.011</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Debug\TechDrinkUpTwitterMetroClient.pdb">
       <PackagePath>TechDrinkUpTwitterMetroClient.pdb</PackagePath>
-      <Modified>2012-09-22T15:21:30.361</Modified>
+      <Modified>2012-09-22T21:40:58.956</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -66,7 +66,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Debug\GroupedItemsPage.xaml">
       <PackagePath>GroupedItemsPage.xaml</PackagePath>
-      <Modified>2012-09-22T15:21:23.730</Modified>
+      <Modified>2012-09-22T21:40:29.856</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
@@ -74,7 +74,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lucas\Dropbox\projects\vsProjects\TechDrinkUpTwitterMetroClient\TechDrinkUpTwitterMetroClient\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-09-22T15:21:30.643</Modified>
+      <Modified>2012-09-22T21:39:08.653</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
