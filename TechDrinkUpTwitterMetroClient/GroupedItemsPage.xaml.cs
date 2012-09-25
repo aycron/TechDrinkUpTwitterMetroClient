@@ -82,7 +82,7 @@ namespace TechDrinkUpTwitterMetroClient
 
         private void Refresh(object sender, RoutedEventArgs e)
         {
-            TwitterDataSource.Instance.GetTweets(itemGridView);
+            TwitterDataSource.Instance.GetTweets(itemGridView, progressRing);
         }
     }
 }

@@ -32,16 +32,17 @@ namespace TechDrinkUpTwitterMetroClient.Data
            // this._items = TechDrinkUpTwitterMetroClient.TwitterServiceNamespace.TwitterService.Instance.GetMockedTweets();      
         }
 
-        internal async void GetTweets(Windows.UI.Xaml.Controls.GridView itemGridView)
+        internal async void GetTweets(Windows.UI.Xaml.Controls.GridView itemGridView, Windows.UI.Xaml.Controls.ProgressRing progressRing)
         {
 
-            
+            progressRing.IsActive = true;
             var list = await TechDrinkUpTwitterMetroClient.TwitterServiceNamespace.TwitterService.Instance.GetTweets();
             foreach (TwitterDataItem i in list)
                 this.Items.Add(i);
             
             //itemGridView.ItemsSource = this.Items;
             itemGridView.DataContext = this.Items;
+            progressRing.IsActive = false;
         }
 
     }

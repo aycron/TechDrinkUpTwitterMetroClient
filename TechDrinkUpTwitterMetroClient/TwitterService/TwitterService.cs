@@ -33,7 +33,7 @@ namespace TechDrinkUpTwitterMetroClient.TwitterServiceNamespace
 
         public async Task<IEnumerable<TwitterDataItem>> GetTweets()
         {
-            //return GetMockedTweets(groupToBeSet);
+            //return GetMockedTweets();
             var ret = new List<TwitterDataItem>();
 
             //string rawresponse = GetMockedRawResponse();
