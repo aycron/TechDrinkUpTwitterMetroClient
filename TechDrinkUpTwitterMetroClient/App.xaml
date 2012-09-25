@@ -18,7 +18,7 @@
 
             <!-- Application-specific resources -->
 
-            <x:String x:Key="AppName">TechDrinkUpTwitterMetroClient</x:String>
+            <x:String x:Key="AppName">TechDrinkUp Twitter Metro Client</x:String>
         </ResourceDictionary>
     </Application.Resources>
 </Application>

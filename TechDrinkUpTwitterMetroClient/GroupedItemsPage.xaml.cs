@@ -1,5 +1,4 @@
-﻿using TechDrinkUpTwitterMetroClient.Data;
-
+﻿
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -13,6 +12,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using TechDrinkUpTwitterMetroClient.Data;
 
 // The Grouped Items Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234231
 
@@ -40,7 +40,9 @@ namespace TechDrinkUpTwitterMetroClient
         protected override void LoadState(Object navigationParameter, Dictionary<String, Object> pageState)
         {
             // TODO: Create an appropriate data model for your problem domain to replace the sample data
-            var sampleDataGroups = SampleDataSource.GetGroups((String)navigationParameter);
+            //var sampleDataGroups = SampleDataSource.GetGroups((String)navigationParameter);
+            var sampleDataGroups = TwitterDataSource.Instance.Items;
+
             this.DefaultViewModel["Groups"] = sampleDataGroups;
         }
 
@@ -76,6 +78,11 @@ namespace TechDrinkUpTwitterMetroClient
         private void itemGridView_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
+        }
+
+        private void Refresh(object sender, RoutedEventArgs e)
+        {
+            TwitterDataSource.Instance.GetTweets(itemGridView);
         }
     }
 }
